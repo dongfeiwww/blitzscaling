@@ -20,24 +20,24 @@
 
 ### 进展：
 
-* Class 1: Reid, Family
-* Class 2: Sam, YC
-* Class 3: Harrison Metal
-* Class 4: Ann, FloodGate
-* Class 5: Allen Blue, John Lily, Tribe
-* Class 6: Code for America
-* Class 7: Minted
-* Class 8: Eric, Google
+* [Class 1](https://github.com/dongfeiwww/blitzscaling/blob/master/class1_reid.txt): Reid, Family
+* [Class 2](https://github.com/dongfeiwww/blitzscaling/blob/master/class2_yc.txt): Sam, YC
+* [Class 3](https://github.com/dongfeiwww/blitzscaling/blob/master/class3.txt): Harrison Metal
+* [Class 4](https://github.com/dongfeiwww/blitzscaling/blob/master/class4.txt): Ann, FloodGate
+* [Class 5](https://github.com/dongfeiwww/blitzscaling/blob/master/class5_linkedin.txt): Allen Blue, John Lily, Tribe
+* [Class 6](https://github.com/dongfeiwww/blitzscaling/blob/master/class6_cfa.txt): Code for America
+* [Class 7](https://github.com/dongfeiwww/blitzscaling/blob/master/class7_minted.txt): Minted
+* [Class 8](https://github.com/dongfeiwww/blitzscaling/blob/master/class8_google.txt): Eric, Google
 * Class 9: Villiage
 * Class 10: SurveyMonkey
-* Class 11: Stripe
-* Class 12: Nextdoor
-* Class 13: YouTube
-* Class 14: Theranos
-* Class 15: VMware
-* Class 16: Netflix
+* [Class 11](https://github.com/dongfeiwww/blitzscaling/blob/master/class11_stripe.txt): Stripe
+* [Class 12](https://github.com/dongfeiwww/blitzscaling/blob/master/class12_nextdoor.txt): Nextdoor
+* [Class 13](https://github.com/dongfeiwww/blitzscaling/blob/master/class13_youtube.txt): YouTube
+* [Class 14](https://github.com/dongfeiwww/blitzscaling/blob/master/class14_theranos.txt): Theranos
+* [Class 15](https://github.com/dongfeiwww/blitzscaling/blob/master/class15_vmware.txt): VMware
+* [Class 16](https://github.com/dongfeiwww/blitzscaling/blob/master/class16_netflix.txt): Netflix
 * Class 17: Marissa, Yahoo
-* Class 18: Brian Chesky, Airbnb
+* [Class 18](https://github.com/dongfeiwww/blitzscaling/blob/master/class18_airbnb.txt): Brian Chesky, Airbnb
 * Class 19: Jeff Weiner, LinkedIn
 
 #### 发布渠道
