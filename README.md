@@ -41,7 +41,7 @@
 * Class 19: Jeff Weiner, LinkedIn
 
 #### 发布渠道
-* [微信公众号]:董老师在硅谷
+* [微信公众号](http://weixin.sogou.com/gzh?openid=oIWsFtx95uUiXXaDHEhEOJLOsSFE&ext=SvSD3-ubD_teV2hj6NComX-kwhrXOdWMTHMR6V740gd5oCLsmwOMiBVIxAXJATNX):董老师在硅谷
 * [知乎专栏](http://zhuanlan.zhihu.com/donglaoshi)
 * [36氪](http://36kr.com/posts/dongfeiwww)
 * [百度百家](http://dongfei.baijia.baidu.com/)
@@ -61,7 +61,7 @@
 * [简书](http://www.jianshu.com/users/33cb76021eaa/latest_articles)
 * xtecher.com
 * tech2ipo
-* 微信其他公众号，
+* 微信其他公众号
 
 #### 人员
 
