@@ -6,15 +6,27 @@
 
 2015 年 9 月，斯坦福创业课程CS183C 开课了，这次是 Linkedin 创始人 Reid Hoffman 主讲，课程内容是《Technology-Enabled Blitzscaling》，之前CS183第一期课程主讲是 Peter Thiel，课程内容出版《From Zero To One》, 2014年与硅谷著名加速器 Y-Combinator 合作，课程内容是《How To Start A Startup》。
 
-文稿：
+进展：
 
 * Class 1:
-* Class 1:
-* Class 1:
-* Class 1:
-* Class 1:
-* Class 1:
-* Class 1:
+* Class 2:
+* Class 3:
+* Class 4:
+* Class 5:
+* Class 6:
+* Class 7:
+* Class 8:
+* Class 9:
+* Class 10:
+* Class 11
+* Class 12:
+* Class 13:
+* Class 14:
+* Class 15:
+* Class 16:
+* Class 17:
+* Class 18:
+* Class 19:
 
 资料：
 
