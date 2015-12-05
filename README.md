@@ -1,7 +1,7 @@
 # Blitzscaling
 ===============
 
-== 2015年斯坦福创业课程 闪电式扩张 ==
+=== 2015年斯坦福创业课程 闪电式扩张 ===
 
 
 2015 年 9 月，斯坦福创业课程CS183C 开课了，这次是 Linkedin 创始人 Reid Hoffman 主讲，课程内容是《Technology-Enabled Blitzscaling》，之前CS183第一期课程主讲是 Peter Thiel，课程内容出版《From Zero To One》, 2014年与硅谷著名加速器 Y-Combinator 合作，课程内容是《How To Start A Startup》。
