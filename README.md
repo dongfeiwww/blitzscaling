@@ -6,10 +6,10 @@
 * 2015年斯坦福创业课程 闪电式扩张
 
 
-2015 年 9 月，斯坦福创业课程CS183C 开课了，这次是 Linkedin 创始人 Reid Hoffman 主讲，课程内容是《Technology-Enabled Blitzscaling》，之前CS183第一期课程主讲是 Peter Thiel，课程内容出版《From Zero To One》, 2014年与硅谷著名加速器 Y-Combinator 合作，课程内容是《How To Start A Startup》。
+2015 年 9 月，斯坦福创业课程CS183C 开课了，这次是 LinkedIn 创始人 Reid Hoffman 主讲，课程内容是《Technology-Enabled Blitzscaling》，之前CS183第一期课程主讲是 Peter Thiel，课程内容出版《From Zero To One》, 2014年与硅谷著名加速器 Y-Combinator 合作，课程内容是《How To Start A Startup》。
 
 
-### 资料：
+### 采访来源：
 
 * [Reid Hoffman采访](http://reidhoffman.org/cs183c-technology-enabled-blitzscaling-the-visible-secret-of-silicon-valleys-success/)
 * [Youtube Channel](https://www.youtube.com/watch?v=s3RrVmv5WwA&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
@@ -19,15 +19,7 @@
 * [LinkedIn](https://www.linkedin.com/pulse/cs183c-technology-enabled-blitzscaling-visible-secret-reid-hoffman)
 
 
-### 前期资料：
-
-* [How to start a startup](http://startupclass.samaltman.com/)
-* [CS183](http://blakemasters.com/peter-thiels-cs183-startup)
-* [CS183B笔记](http://ohenry.org/startup)
-* [YC创业课（CS183B）学习笔记－李笑来](http://zhibimo.com/read/xiaolai/growth/)
-* [YC创业课中文社区](http://startupclass.club/)
-
-### 进展：
+### 课程进展：
 
 * [Class 1](https://github.com/dongfeiwww/blitzscaling/blob/master/class1_reid.txt): Reid, Family
 * [Class 2](https://github.com/dongfeiwww/blitzscaling/blob/master/class2_yc.txt): Sam, YC
@@ -71,6 +63,14 @@
 * xtecher.com
 * tech2ipo
 * 微信其他公众号
+
+### 前期资料：
+
+* [How to start a startup](http://startupclass.samaltman.com/)
+* [CS183](http://blakemasters.com/peter-thiels-cs183-startup)
+* [CS183B笔记](http://ohenry.org/startup)
+* [YC创业课（CS183B）学习笔记－李笑来](http://zhibimo.com/read/xiaolai/growth/)
+* [YC创业课中文社区](http://startupclass.club/)
 
 #### 人员
 

@@ -1,1 +1,139 @@
-TBD
+For today’s class session, Reid Hoffman interviewed our special guest, Selina Tobaccowala, the President and CTO of SurveyMonkey (and one of the co-founders of Evite). You can watch the recording here.
+The Village stage is an inflection point; so much of Silicon Valley is based on patterns. Breaking the pattern (in a good way)
+Q: Tell us about how
+A: There was one guy. His name was Ryan Finley. He worked at a radio station that wanted to get feedback from listeners. So he built SurveyMonkey on the side, while he was still working at the radio station.
+SurveyMonkey was one of the first freemium businesses. Remember, this was 1999.
+Four years in, he was getting so many customer service emails that he deleted them all and asked his brother to come join him.
+In 2005, he decided that Wisconsin was too cold, so he decided to move to Portland. He put up a sign, “The website is down,” and put his servers on a truck to drive them to Portland.
+Fast forward to the end of 2008. The business was a Tribe in terms of employees, but a Village in terms of revenues. Ryan realized he had no idea how to take the company forward. So he hired a banker to get some liquidity and bring in an experienced CEO.
+SurveyMonkey was already too big for venture capital, so two private equity firms, Spectrum Equity and Bain Capital, came on board and brought in Dave Goldberg as CEO.
+Ryan wanted a CEO who would be incredibly intelligent and humble, and that was Dave.
+Q: So how did you come in?
+A: I was in Europe running technology at Ticketmaster. I did Stanford-at-Berlin, and I always wanted to spend time in Europe. I was looking to start a family, and I didn’t want to travel 70% of the time anymore.
+Zander Lurie introduced me to Dave. At first, my reaction was, “Surveys?” But Dave had a vision that it wasn’t just surveys, but feedback. How do you build insights, and not just data?
+Q: How big was the company when you joined.
+A: I joined in October 2009. We had 19 employees and 3 engineers. We had tens of millions in revenue, and the margin was unbelievable. Dave had hired one tech ops person when he realized that there was no backup of the database.
+Dave brought in executives like Tim Maly, our CFO, and me.
+Q: So what was your initial plan?
+A: The first big thing was the platform. It was a monolithic .NET application with HTML sprinkled in everywhere. Two to three people had build this application that scaled from a traffic perspective, but not from a developer perspective.
+The decision I made was to focus on one area of the site at a time, rather than send folks off to Fiji to build a new version.
+There had been no marketing. It was all virality. When I asked Ryan what he had done for marketing, he said, “Well, I put a gorilla suit on and stood in the crowd at the Today show.”
+So we focused on quickly getting out in different languages. The hardest part was rebuilding the billing system with 28 different currencies, to enable people to buy our product.
+Then we went on to survey creation, analytics, etc.
+Q: You had three engineers. Who were your first three hires?
+A: The first hire was a UX designer. I ran through UserTesting.com and watched five videos. There was so much low-hanging fruit to fix the experience. I figured that if I fixed these things and showed progress, it would give me air cover to do the other things. I hired him from LinkedIn.
+Reid: “Yes, I remember that.”
+Then I hired a head of engineering, also from LinkedIn.
+Reid: “Yes, I remember that too. This is how you build companies in Silicon Valley.”
+The first thing I asked my head of engineering to do was to pick a language. She looked at Ruby, Python, Java, and we picked Python.
+I had a spreadsheet for evaluating them. The first was hiring, the second was scale, and the third was around comparables.
+We were hiring as quickly as we could; 8–10 people in engineering in that first year.
+Q: How did you prep for global scope?
+A: We were focused globally from the start, but on the platform, not putting people in different countries. Launch the languages, give them the ability to pay.
+Q: Did virality differ globally?
+A: Hugely. When you depend on a viral funnel, you depend on the customer having awareness of the brand. You start seeing impact when people see their 5th, 6th, 7th survey. We saw the same thing at Evite with invitations.
+Q: How many cohorts were you tracking? A/B testing?
+A: We launched A/B testing. Ryan had great product instinct, and hadn’t done a single A/B test. Right away, we added an A/B test for the home page, then the signup flow, then the pricing page.
+If a test takes more than 2–3 months, it’s hard to get any motion behind it. But once you have the traffic, you can quickly see user behavior.
+Reid: “At LinkedIn, we let people do tests on up to 10 cohorts.”
+At eBay, we did odd or even user IDs.
+Q: What did that mean for dashboards, analytics, data?
+A: There were no analytics before 2009 — a daily cash report and that was it. I strongly believe that as a whole company, you can’t get behind more than 3–5. The first thing was to get a data warehouse, next was to build dashboards. Everything gets multipled by the number of countries. The key metrics are: free users, free users that become paid users, and then engagement — surveys, return rate.
+Q: After raiding LinkedIn, what was the hiring plan?
+A: After choosing Python, we went to meetups. We came to Stanford and did recruiting — our first intern now runs all of our mobile. We also used traditional recruiters. One of our first hires was a recruiter. He came from Google, and had all this criteria around GPAs, etc. He asked me, what are your criteria? I told him, I want people who aren’t assholes who get things done. That was Dave’s philosophy as well.
+Q: How did you maintain that as you scaled?
+A: People do code on a whiteboard, but they can choose the language of their choice. We’re trying to avoid unconscious bias by asking a consistent set of questions. It’s better to ask, “How would you solve this problem?” rather than asking what they did in the past. Women tend to sell themselves short in what they did, and men tend to say they did more than they did.
+The most effective recruiting channel is employee referrals. And of course, LinkedIn is the best place to recruit — the application, not the company.
+We didn’t find career fairs very useful. College career fairs are good, but the other ones aren’t (other than Grace Hopper).
+Q: How many engineers do you have?
+A: 150, but we did a couple of acquisitions.
+Q: When did you start doing acquisitions?
+A: Dave liked doing deals. In 2012, we bought our biggest competitor, Zoomerang. We had to deprecate the entire codebase, but we picked up some great engineers in that acquisition
+Q: What would you tell yourself to do differently?
+A: The first is not to go on maternity leave in the middle. Also, we probably didn’t have to replicate all the features that we did.
+Reid: “PayPal merged with its biggest competitor, X.com. X.com was running NT; PayPal was C++ and Solaris. I’d tell my younger self, be more decisive about the tech universe right away.”
+That I did. It was more the feature set that was an issue.
+Q: How did you evolve the product?
+A: The biggest belief we had is that over time, creating surveys will be commoditized. Creating insights out of the data is where we wanted to innovate. So we invested and continued to invest in analytics. One of the things we launched was comparative data — people had to use standard questions from a question bank, but that let them compare their results with others. We started building out a benchmarks product.
+Q: How did you figure out prioritization of features that would unlock global scale?
+A: Payments. In Germany, 60% of payments are made by bank transfer, rather than credit cards. That was a base building block.
+What we found is that once you were in the product, you didn’t need that much customization, but how you talked about products had to be localized. The concept of collecting employee feedback is very foreign to some cultures.
+In Japan, the number of images on a homepage is 3–4X that in the US. We’re only making that change now.
+You have to watch the metrics and really understand what people are doing. Your brand awareness in these new markets is tiny. You have educate people on why they would want to do a survey.
+Q: Any surprising countries?
+A: Not really. The English markets are easier. We started to do a lot of SEO per market, and it’s easier to do that for English markets. Our business was almost all US in 2009, now it’s 60% US. You have to build up link authority with local content.
+Student Q: How do you launch into a new market?
+A: In markets where we had traffic, we’d switch people over to the new domains. In other markets, we’d buy keywords, and build content pages for SEO.
+Student Q: How did you manage product perspectives across different geographies?
+A: All product and engineering is done in a centralized way. Our development methodologies don’t change for global. Everybody does need a Pig Latin version in their development environment so that you’re considering different languages at the start.
+Q: Did you try to get your customers to publish survey results?
+A: We have the ability for customers to give permission to us to publish, but a lot of surveys are things you don’t want to share. But, we built a panel on the results page where we’d offer to donate $0.50 to charity for filling out a survey. Then we’d create our own surveys and publish those results.
+Q: Data-as-a-Platform — how do you think about that?
+A: Benchmarks costs tens of thousands to develop; we can do it for hundreds. We have employee satisfaction, Net Promoter Score, K-12 parent feedback, event feedback. Take classroom feedback — Stanford would want to see how well it was doing relative to other comparable schools.
+Q: How do you build out the management layer?
+A: This has been one of the most fun but hardest challenges we have. Both Dave and I believed several things. First, we wanted people with startup experience and scale experience. I started Evite, but also ran 250 people at Ticketmaster. Dave had started Launch, and then ran Yahoo Music. We liked the culture of a small company.
+Q: How many employees do you have?
+690. So we’re approaching the city stage. You want people to scale up, but some people don’t. We had one guy that was great at the hands-on getting stuff done and leading a small team, but he hated managing managers. Our general view is that we liked hiring from within — all but one of our engineering managers were hired from within. But sometimes you need to bring in someone who has done it before.
+Q: How do you keep the people you want to keep, even when you’re not promoting them?
+A: It’s hard, almost impossible. When somebody has been responsible for a thing, even though the role has gotten bigger, it’s hard to accept the scope getting smaller.
+There will be people who only enjoy the Tribal stage. The woman who did international at LinkedIn, SurveyMonkey, and Nextdoor is absolutely fantastic at setting up the platform for international, and when she’s done, she wants to move on.
+The hardest part is layering in management over someone.
+Q: As you grow, you hire much more specialists. Mina is an internationalization specialist.
+A: There will be some people who scale. One of my first five hires, my BI analyst, is now our VP of Growth and Analytics. You want everyone to scale and grow.
+Q: Did your sense of the opportunity and competition change?
+A: You see larger players making moves — Google has a Forms product — and you see smaller players that specialize — people that focus on employee engagement. You have to look at how the competition is affecting your business and consider M&A.
+Q: Acquihires?
+A: We did buy some of the YC companies that didn’t make it. Acquihires are great. We did this one acquihire, and the two guys are still there 5 years later, running the entire audience product.
+Student Q: How did you identify them?
+A: It’s a small Valley — Dave had a vast network, and people pointed us to good people.
+Reid: That’s why you’re focused on being plugged into the network. Dave knows Sam Altman, Sam calls Dave, and says, hey you might be interested in this one.
+Student Q: Isn’t acquihiring extremely expensive?
+Reid: It’s expensive if it’s the only way you’re hiring. Paying $5 million for 5 engineers isn’t for any five engineers. They’ve demonstrated that they work well together and can have an impact on an important project.
+And that’s partially cash and equity, and over time.
+Student Q: How do help customers reduce bias in their questions?
+A: If you ask people whether they agree or disagree, in America, most of them will agree. That changes by market.
+We built a question bank, where the questions are worded in the right way, and the answer options are good. You can also randomize — people often choose the first option.
+Student Q: What are the network effects of the survey business? What are the other competitive barriers?
+A: One of the main barriers is your data — you want to see your data over time — and as we build comparative data sets, that’s also a differentiator. One of the reasons we’ve done acquisitions is that once you choose a survey product, your willingness to move to another product is low. Customers that churn often tell us, “I don’t need you now, but we’ll be back.”
+Q: How do you drive re-engagement?
+A: We spend a lot of time on re-engagement, both on emailing the customer and retargeting on LinkedIn and Facebook. We have very specific reengagement curves which we don’t share.
+Q: Do you use any machine learning?
+A: We do use propensity models based on user behavior. Similarly, on what we should show them at the end of the survey.
+Student Q: How do you decide something is worth working on?
+A: There are three important things to think about when considering a company. The first is the product. I wasn’t excited when I first heard about surveys, but I got really excited when I thought about how people were using it. Helping people make better decisions with data is exciting. The second is the people. Dave Goldberg was a fantastic leader and the best mentor I’ve ever had in my career. I also had the opportunity to build my team. The third is what you might learn. I wanted to learn if we could take this small team with a big business and scale it up? Evite had 30 people when we sold it, and Ticketmaster was already huge. Taking a small company and scaling it up was what I wanted to learn.
+Reid: Software is transforming a number of different industries — getting a revolution in bits leads to a revolution in atoms. And while the 50s were expecting flying cars, they weren’t expecting smartphones.
+Student Q: How much of the re-engagement is in-house versus outsourced?
+A: It’s all in-house.
+Reid: Anything that’s mission-critical is in-house. Having that external is a major risk.
+Student Q: Has SurveyMonkey been aggressive in the mobile space?
+A: Domestically, 35% of people are taking surveys on mobile. It’s 50% outside the US. They’re not going to download a mobile app to take a survey. We do have a mobile app that lets survey creators manage their surveys — quick fixes of typos and the like. We also have a mobile SDK to make it easier for other developers to integrate SurveyMonkey. If a user had a good experience, send them to the App Store to leave feedback; if they had a bad experience, send them to SurveyMonkey.
+You need to make sure that the experience on the mobile web is good; that’s growing 2X as fast as mobile apps.
+Q: There’s an app/mobile web war between Apple and Google. How does that play out?
+A: There are certain markets where iOS is stronger — in Japan, it’s 80% iOS — and we see more app downloads. Android-heavy markets focus on the mobile web.
+Q: Part of your scaleup was multi-threading — working on more than one project at a time (globalization, payments, etc).
+A: It was very tied to our decision to move to a Service-Oriented Architecture. Each service needs to have a team that includes UX and BI to understand the success of the service. How you’re talking to the services tier is consistent. You have to figure out the guardrails for each team, and what freedoms you want to give. We had guardrails like 100% code review, release at least once a week. I didn’t care if people wanted to do 1-week or 3-week sprints. Figure out the roadmap, commit, then give people freedom.
+If you ask someone in SurveyMonkey engineering, they’ll identify more with their team than their role.
+Student Q: How do you think about products when you have two audiences?
+A: Whenever you have a respondent who can become a creator, you have to make filling out the survey a great experience. But our customers are the creators, so we spend 80% of our resources on the survey creation side. They need to feel comfortable putting their name on the survey and publishing it.
+Student Q: Do you spend a lot of time getting respondents to take other surveys?
+A: The panels business lets people take surveys to give to charity, and then creators can buy responses. We leveraged our traffic to build out our panel. We chose to do $0.50 to charity rather than money because we didn’t want people to BS the surveys just to make money.
+Student Q: What do I need to do to be the kind of person who can scale up?
+A: A lot of it is figuring out if you actually enjoy people management. It’s not for everybody. We put all our engineers through the engineering management stream, but we also have a tech track — gaining knowledge, mentoring other people. You have to decide which you enjoy. But if you’ve brought somebody in to lead, you have to scale. If you manage 5 people, you have a 20% impact on 5 things. If you manage 50, it’s 2% on 50 things. You have to get satisfaction out of influencing people, as opposed to the feeling of building it yourself. That’s not enjoyable to everybody. If you do enjoy it, then you work on those skills.
+Student Q: How targetable are you panels? How did you collect that data to begin with?
+A: Yes, and we collect that data via survey.
+Student Q: Do you have any plans to get into the polling space?
+A: We just launched this! We were the only company to correctly call the UK election. Our sample size is so much larger than calling people on the phone. We have a partnership with NBC to poll on certain topics.
+If we can show that our data is accurate for elections, it helps build the brand and the confidence that SurveyMonkey isn’t just a tool.
+Student Q: 7 and 28 day readouts?
+A: Some features don’t work. That’s okay, but you have to get rid of them — having clutter for the customers is not a good idea.
+Student Q: How did you figure out which fires to let burn?
+A: We were in a very advantageous business because the business was doing very well. We tried to figure out which problems were most important. We collected customer feedback, both from user testing and quantitative data, as well as direct customer feedback.
+First, people couldn’t pay. Second, people couldn’t figure out how to work with the data. People said it was easy to set up a survey, so that was the last thing we attacked.
+Student Q: Talk about leaving Silicon Valley to work abroad?
+A: I started here. We started Evite in our dorm at Stanford. Evite sold to IAC, which owned Ticketmaster, and it was down in LA, so I worked in LA for a couple of years. I really wanted international experience, including on a personal level. It was the best decision I ever made — I met my husband there.
+Student Q: How did you make surveys fun?
+A: It was all about getting the creator into the funnel and onboarding them. “What are you trying to do?” We also focused on helping people understand the data. The more they understood the data, the higher the retention.
+Student Q: What were the highest-leverage organizational strategies that you used to scale?
+A: There is not silver bullet when it comes to hiring. You have to slog through it. But the biggest bang for the buck came from onboarding — getting people to understand the company and the mission, to get them kickstarted. We also liked to have a cadence for operating the business. We decided it was quarterly. We still keep that cadence, and know what we’ll get done this quarter. It’s important to build this rhythm of the business from the beginning. Every quarter, I get the entire team together and go through great things from the last quarter.
+Q: What would you tell your 2009 younger self to do differently?
+A: The biggest thing we didn’t do fast enough is improve our deployment systems. As our team started to scale and grow, it was the biggest thing that kept coming up in the surveys. It took way too long to get from the keyboard to production.
