@@ -14,7 +14,7 @@
 * [Youtube Channel](https://www.youtube.com/watch?v=s3RrVmv5WwA&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
 * [Medium Notes1](https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin)
 * [Medium Notes2](https://medium.com/cs183c-blitzscaling-class-collection/latest)
-* [Slides](http://www.slideshare.net/greylockpartners/stanford-cs183c-blitzscaling-lecture-1 )
+* [Slides 1, 5, 9](http://www.slideshare.net/greylockpartners )
 * [Reid Hoffman采访](http://reidhoffman.org/cs183c-technology-enabled-blitzscaling-the-visible-secret-of-silicon-valleys-success/)
 * [LinkedIn](https://www.linkedin.com/pulse/cs183c-technology-enabled-blitzscaling-visible-secret-reid-hoffman)
 
@@ -54,6 +54,7 @@
 * [今日头条](http://m.toutiao.com/m3633443135/)
 * [财新](http://dongfei.blog.caixin.com/)
 * [雷锋网](http://www.leiphone.com/author/dongfei)
+* [Slideshare](https://www.slideshare.net/secret/oQfFGYO5kMtokI)
 
 ### 其他发布:
 
