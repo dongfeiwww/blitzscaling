@@ -55,6 +55,8 @@
 * [财新](http://dongfei.blog.caixin.com/)
 * [雷锋网](http://www.leiphone.com/author/dongfei)
 * [Slideshare](https://www.slideshare.net/secret/oQfFGYO5kMtokI)
+* [百度云](http://pan.baidu.com/s/1boaUY8R)
+* [喜马拉雅](http://www.ximalaya.com/#/2562704/sound)
 
 ### 其他发布:
 
