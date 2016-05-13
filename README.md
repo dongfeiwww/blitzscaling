@@ -57,6 +57,16 @@
 * [Slideshare](https://www.slideshare.net/secret/oQfFGYO5kMtokI)
 * [百度云](http://pan.baidu.com/s/1boaUY8R)
 * [喜马拉雅](http://www.ximalaya.com/#/2562704/sound)
+* [爱范儿](http://www.ifanr.com/author/donglaoshi)
+* [36大数据](http://www.36dsj.com/archives/tag/dongfei)
+* [LinkedIn洞察](https://www.linkedin.com/today/author/0_3y3cm_wWgllfKxuXkU0omL)
+* [i黑马](http://space.iheima.com/dongfei)
+* [网易云课堂](http://mooc.study.163.com/u/ykt1433557943863)
+* [infoQ](http://www.infoq.com/cn/author/%E8%91%A3%E9%A3%9E)
+* [数据观](http://www.cbdio.com/node_4700.htm)
+* [数据猿](http://www.datayuan.cn/expert.htm?param=%E8%91%A3%E9%A3%9E)
+* [芥末堆](http://www.jiemodui.com/W/20175.html)
+* [果壳](http://www.guokr.com/i/1507338104/)
 
 ### 其他发布:
 
@@ -64,9 +74,13 @@
 * [LinkedIn](https://www.linkedin.com/today/author/36599392)
 * [十五言](http://www.15yan.com/i/dong-fei/latest/)
 * [简书](http://www.jianshu.com/users/33cb76021eaa/latest_articles)
-* xtecher.com
-* tech2ipo
-* 微信其他公众号
+* [xtecher.com](http://www.xtecher.com/Website/Profile/view?uid=106120)
+* [百科](http://baike.baidu.com/item/%E8%91%A3%E9%A3%9E/17488715)
+* [Segmentfault](https://segmentfault.com/a/1190000002514967)
+* [图灵社区](http://www.ituring.com.cn/article/177529)
+* [炼数成金](http://it.dataguru.cn/article-5816-1.html)
+* [茄葩](http://www.qiepa.com/2015/01/3634/)
+* [硅发布](http://www.guifabu.com/archives/author/dongfei)
 
 ### 前期资料:
 
